@@ -1,7 +1,7 @@
-// HelloWorld.cs
+// HelloSwift.cs
 using System;
 
-public class HelloWorld
+public class HelloSwift
 {
     public void PrintHelloWorld()
     {

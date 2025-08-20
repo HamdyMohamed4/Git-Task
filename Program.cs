@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+// Entry point of the application
+class Program
+{
+    static void Main()
+    {
+        // Create instances of the classes
+        HelloSwift hw = new HelloSwift();
+        HelloITI hi = new HelloITI();
+
+        // Call the methods
+        hw.PrintHelloWorld();
+        hi.PrintHelloITI();
+        hi.PrintHelloGit();
+    }
+}

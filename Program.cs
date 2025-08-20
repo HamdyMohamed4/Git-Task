@@ -14,4 +14,5 @@ class Program
         hi.PrintHelloITI();
         hi.PrintHelloGit();
     }
+hi.PrintHelloTo("Ali");
 }

@@ -15,5 +15,4 @@ Console.WriteLine("Starting ITI Git Lab...");
         hi.PrintHelloITI();
         hi.PrintHelloGit();
     }
-hi.PrintHelloTo("Ali");
 }
